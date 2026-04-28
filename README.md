@@ -4,5 +4,5 @@ This is a small webpage I made while exploring how to use JavaScript with HTML a
 
 I used this project to get more comfortable changing page behavior, testing ideas, and learning how JavaScript can make a basic webpage feel more dynamic.
 
-##Screenshot
+## Screenshot
 ![Fun Page Screenshot](image1.png)
